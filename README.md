@@ -1,3 +1,4 @@
+![HTML-CSS-JS](https://user-images.githubusercontent.com/37299077/130841268-a8fe0f76-d892-49e6-b882-234fec81baaa.jpg)
 - 👋 Hi, I’m @FranJimenezQ, I’m from Costa Rica, I have a Diploma in Bussiness Administration an also a Diploma in Systems Enginering.💻
 - 👀 I’m interested in Web Developing.💻
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Angular.💻
