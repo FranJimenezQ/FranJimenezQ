@@ -1,4 +1,3 @@
-![HTML-CSS-JS](https://user-images.githubusercontent.com/37299077/130841268-a8fe0f76-d892-49e6-b882-234fec81baaa.jpg)
 - 👋 Hi, I’m @FranJimenezQ, I’m from Costa Rica, I have a Diploma in Bussiness Administration an also a Diploma in Systems Enginering.💻
 - 👀 I’m interested in Web Developing.💻
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Angular.💻
@@ -7,6 +6,8 @@
 - 📳 This is my CellPhone number from Costa Rica: 506-83134884.
 - ✉ This is my Email: flakundo@gmail.com 
 - 🔗 This is my linkedin link: https://www.linkedin.com/in/francisco-jimenez-quesada-388a1639/
+![HTML-CSS-JS](https://user-images.githubusercontent.com/37299077/130842241-346d0d13-8cb8-474f-8b13-8049e50b7d4b.jpg)
+
 
 
 <!---
