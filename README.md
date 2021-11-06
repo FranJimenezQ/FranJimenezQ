@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranJimenezQ, I’m from Costa Rica, I have a Diploma in Bussiness Administration an also a Diploma in Systems Enginering.💻
 - 👀 I’m interested in Web Developing.💻
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Angular.💻
+- 🌱 I’m currently learning HTML, CSS, JavaScript.💻
 - 💞️ I’m looking to collaborate on Web projects to get experience a start a carrer in this field.💻
 - 📫 How to reach me?
 - 📳 This is my CellPhone number from Costa Rica: 506-83134884.
