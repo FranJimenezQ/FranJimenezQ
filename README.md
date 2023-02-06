@@ -1,6 +1,6 @@
 - 👋 <h3>Hi, I’m @FranJimenezQ</h3>. I’m from Costa Rica.
 - 👀 I’m a Frontend Software Developer.💻
-- Some of my skills are HTML, CSS, JavaScript, PHP, WordPress and also I’m currently learning Angular, React and Ruby.💻
+- Some of my skills are HTML, CSS, JavaScript, PHP, WordPress, Docker, Git, Gitlab, Sourcetree and also I’m currently learning Angular, React and Ruby.💻
 - I’m looking to collaborate on Web projects to get experience and have fun learning more.💻
 - 📫 How to reach me?
 - 📳 This is my CellPhone number from Costa Rica: 506-83134884.
