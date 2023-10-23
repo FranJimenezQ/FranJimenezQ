@@ -2,7 +2,7 @@
 - 👀 I’m a Frontend Software Developer.💻
 - Some of my skills are 
 
-[![Skills](https://devicons.dev.br/icons?icon=Python,AWS,NodeJS,PostgreSQL,RabbitMQ&theme=dark)](https://devicons.dev.br/)
+[![Skills](https://devicons.dev.br/icons?icon=Git,HTML,JavaScript,Jenkins,Figma,Docker,CSS,Bootstrap,Angular,MongoDB,PHP,React,TypeScript,Wordpress&theme=dark)](https://devicons.dev.br/)
 HTML, CSS, JavaScript, PHP, WordPress, Docker, Git, Gitlab, Sourcetree and also I’m currently learning Angular, React and Ruby.💻
 - I’m looking to collaborate on Web projects to get experience and have fun learning more.💻
 - 📫 How to reach me?
