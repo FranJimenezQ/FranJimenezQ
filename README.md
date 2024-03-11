@@ -1,4 +1,4 @@
-- 👋 <h3>Hi, I’m @FranJimenezQ</h3>. I’m from Costa Rica.
+<h3>Hi, I’m @FranJimenezQ</h3> 👋 I’m from Costa Rica.
 - 👀 I’m a Frontend Software Developer.💻
 - Some of my skills are 
 
