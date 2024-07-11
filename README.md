@@ -1,9 +1,10 @@
 <h3>Hi, I’m @FranJimenezQ</h3> 👋 I’m from Costa Rica.
 - I’m a Frontend Software Developer.💻
 - Some of my skills are 
-
+Git,HTML,JavaScript,Jenkins,Figma,Docker,CSS,Bootstrap,Angular,MongoDB,PHP,React and TypeScript.
+<!---
 [![Skills](https://devicons.dev.br/icons?icon=Git,HTML,JavaScript,Jenkins,Figma,Docker,CSS,Bootstrap,Angular,MongoDB,PHP,React,TypeScript,Wordpress&theme=dark)](https://devicons.dev.br/)
-
+--->
 - I’m looking to collaborate on Web projects to get experience and have fun learning more.💻
 - 📫 How to reach me?
 - 📳 This is my CellPhone number from Costa Rica: 506-83134884.
