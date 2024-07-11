@@ -1,5 +1,5 @@
 <h3>Hi, I’m @FranJimenezQ</h3> 👋 I’m from Costa Rica.
-- 👀 I’m a Frontend Software Developer.💻
+- I’m a Frontend Software Developer.💻
 - Some of my skills are 
 
 [![Skills](https://devicons.dev.br/icons?icon=Git,HTML,JavaScript,Jenkins,Figma,Docker,CSS,Bootstrap,Angular,MongoDB,PHP,React,TypeScript,Wordpress&theme=dark)](https://devicons.dev.br/)
@@ -13,6 +13,7 @@
 ![HTML-CSS-JS](https://user-images.githubusercontent.com/37299077/130842241-346d0d13-8cb8-474f-8b13-8049e50b7d4b.jpg)
 
 - <h3>Some of my projects </h3>
+- Portafolio > https://franjimenezq.github.io/portafolio/
 - drinks-app > https://franjimenezq.github.io/drinks-app/
 - noti-web > https://franjimenezq.github.io/Noti-Web/
 - movies-page > https://franjimenezq.github.io/movie-Angular-App/
