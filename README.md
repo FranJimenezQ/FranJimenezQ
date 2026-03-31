@@ -1,7 +1,12 @@
 <h3>Hi, I’m @FranJimenezQ</h3> 👋 I’m from Costa Rica.
-- I’m a Frontend Software Developer.💻
-- Some of my skills are 
-Git,HTML,JavaScript,Jenkins,Figma,Docker,CSS,Bootstrap,Angular,MongoDB,PHP,React and TypeScript.
+Frontend Software Developer with over 5 years of experience building dynamic and efficient web
+applications. Specialized in Angular (v14–v21), TypeScript, HTML5, CSS3, and JavaScript, with hands-on
+expertise in REST API integration, UI/UX optimization, and modern Angular features including Signals,
+Standalone Components, and the new Control Flow syntax. Experienced in full-stack development using
+Node.js, Express.js, and MongoDB for personal and side projects. Leverages AI tools — including the
+Claude API — to accelerate development workflows and improve software delivery quality. Proven track
+record of improving platform efficiency and delivering responsive, scalable user interfaces in production
+environments.
 <!---
 [![Skills](https://devicons.dev.br/icons?icon=Git,HTML,JavaScript,Jenkins,Figma,Docker,CSS,Bootstrap,Angular,MongoDB,PHP,React,TypeScript,Wordpress&theme=dark)](https://devicons.dev.br/)
 --->
