@@ -27,6 +27,7 @@ environments.
 - web-template > https://franjimenezq.github.io/Flakundo-Web-Template1/
 - weatherApp > https://franjimenezq.github.io/WeatherApp/
 - inventario-herramientas > https://github.com/FranJimenezQ/inventario-herramientas
+- AI Sarcastic Chat > https://ai-chat-app-navy-chi.vercel.app/ - https://github.com/FranJimenezQ/AI-chat-app
 
 
 
